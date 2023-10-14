@@ -62,4 +62,4 @@ Thank you for choosing our Tech Gadget E-commerce Website. We look forward to pr
 
 
 ## Screenshot
-![screenshotimg][H:\My Documents\Desktop\Gadget world\sketch.HEIC]
+![screenshotimg][sketch.HEIC]
